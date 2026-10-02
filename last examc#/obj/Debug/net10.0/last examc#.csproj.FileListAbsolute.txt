@@ -1,0 +1,4 @@
+C:\Users\2026\Desktop\last examc#\obj\Debug\net10.0\last examc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2026\Desktop\last examc#\obj\Debug\net10.0\last examc#.AssemblyInfoInputs.cache
+C:\Users\2026\Desktop\last examc#\obj\Debug\net10.0\last examc#.AssemblyInfo.cs
+C:\Users\2026\Desktop\last examc#\obj\Debug\net10.0\last examc#.csproj.CoreCompileInputs.cache
